@@ -1,0 +1,20 @@
+Meeting Title: {{ meeting_title }}
+Meeting Date: {{ meeting_date }}
+Attendees: {{ attendees }}
+Meeting Objective: {{ meeting_objective }}
+
+Discussion Summary: {{ raw_notes }}
+
+Decisions Taken: {{ decisions }}
+
+Action Items: {{ action_items }}
+
+Risk/Blockers: {{ risks }}
+
+Next Meeting Date: {{ next_meeting_date }}
+
+Should you have any questions/queries feel free to reach out.
+
+Best Regards,
+Harjinder Singh
+Senior Business Analyst
